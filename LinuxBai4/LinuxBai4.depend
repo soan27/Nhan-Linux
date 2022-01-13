@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1641962111 source:c:\users\hoang xoan\documents\lap trinh c\linuxbai4\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+

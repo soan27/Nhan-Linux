@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636733511 source:c:\users\hoang xoan\documents\lap trinh c\learnc\main.c
+	<stdio.h>
+
+1640960998 source:c:\users\hoang xoan\documents\lap trinh c\laptrinhc_35\main.c
+	<stdio.h>
+	<string.h>
+
